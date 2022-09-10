@@ -20,6 +20,8 @@ The Prerequisite for this project are:
 * Reinforcement Learning
 * Deep Learning (Dense Neural Network)
 * Pygame
+
+
 We have to create three Modules for this project:
 
 - The Environment (the game that we build)
