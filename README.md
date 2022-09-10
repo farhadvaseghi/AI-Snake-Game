@@ -7,7 +7,7 @@
 </p>
 
 ## Description 
-This Project is based on Reinforcement Learning which trains the snake to eat the food present in the environment.
+This Project is based on Reinforcement Learning which trains the snake to eat the food present in the environment. A sample gif is given below so that you can get an idea of what we are going to build.
 <p align="center">
 <kbd>
    <img align="center" src="https://user-images.githubusercontent.com/54831801/189473089-37006dbc-15d8-4e4f-8d22-1dbdf7e2f1c2.gif" width="700" height="500">
