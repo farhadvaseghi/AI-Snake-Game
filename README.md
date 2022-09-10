@@ -2,7 +2,7 @@
 # AI Driven Snake Game Using Pytorch
 <p align="center">
 <kbd>
-   <img align="center" src="https://user-images.githubusercontent.com/54831801/189473117-ceaa7e19-eb39-4439-b6db-41b1f815907d.png" width="400" height="200">
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189473117-ceaa7e19-eb39-4439-b6db-41b1f815907d.png" width="400" height="300">
 </kbd>
 </p>
 
